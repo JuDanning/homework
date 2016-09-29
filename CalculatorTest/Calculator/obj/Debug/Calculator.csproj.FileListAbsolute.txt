@@ -1,0 +1,4 @@
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\Calculator\bin\Debug\Calculator.dll
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\Calculator\bin\Debug\Calculator.pdb
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\Calculator\obj\Debug\Calculator.dll
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\Calculator\obj\Debug\Calculator.pdb

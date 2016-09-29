@@ -1,0 +1,12 @@
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\CalculatorTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\CalculatorTest\bin\Debug\xunit.runner.utility.desktop.dll
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\CalculatorTest\bin\Debug\xunit.abstractions.dll
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.dll
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.pdb
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\CalculatorTest\bin\Debug\Calculator.dll
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\CalculatorTest\bin\Debug\xunit.dll
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\CalculatorTest\bin\Debug\Calculator.pdb
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\CalculatorTest\bin\Debug\xunit.xml
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.dll
+c:\users\dengxu\documents\visual studio 2013\Projects\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.pdb
